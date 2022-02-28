@@ -1,0 +1,76 @@
+# Translation of Plugins - Enhanced Text Widget - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Enhanced Text Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-15 13:23:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Enhanced Text Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://themecheck.info"
+msgstr "https://themecheck.info"
+
+#. Author of the plugin
+msgid "Clever Widgets"
+msgstr "Clever Widgets"
+
+#. Description of the plugin
+msgid "An enhanced version of the default text widget where you may have Text, HTML, CSS, JavaScript, Flash, Shortcodes, and/or PHP as content with linkable widget title."
+msgstr "Расширенная версия текстового виджета по умолчанию, в которой текст, HTML, CSS, JavaScript, Flash, Shortcodes и/или PHP могут использоваться в качестве содержимого с заголовком связанного виджета."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/enhanced-text-widget/"
+msgstr "http://wordpress.org/plugins/enhanced-text-widget/"
+
+#. Plugin Name of the plugin
+msgid "Enhanced Text Widget"
+msgstr "Enhanced Text Widget"
+
+#: enhanced-text-widget.php:181
+msgid "Do not output before/after_widget/title"
+msgstr "Не выводить before/after_widget/title"
+
+#: enhanced-text-widget.php:177
+msgid "Automatically add paragraphs to the content"
+msgstr "Автоматическое добавление абзацев в содержимое"
+
+#: enhanced-text-widget.php:173
+msgid "Open the URL in a new window"
+msgstr "Открыть URL в новом окне"
+
+#: enhanced-text-widget.php:168
+msgid "Do not display empty widgets"
+msgstr "Не отображать пустые виджеты"
+
+#: enhanced-text-widget.php:164
+msgid "Do not display the title"
+msgstr "Не отображать заголовок"
+
+#: enhanced-text-widget.php:159
+msgid "Content"
+msgstr "Содержимое"
+
+#: enhanced-text-widget.php:154
+msgid "CSS Classes"
+msgstr "Классы CSS"
+
+#: enhanced-text-widget.php:149
+msgid "URL"
+msgstr "Ссылка"
+
+#: enhanced-text-widget.php:144
+msgid "Title"
+msgstr "Название"
+
+#: enhanced-text-widget.php:33
+msgid "Enhanced Text"
+msgstr "Расширенный текст"
+
+#: enhanced-text-widget.php:31
+msgid "Text, HTML, CSS, PHP, Flash, JavaScript, Shortcodes"
+msgstr "Text, HTML, CSS, PHP, Flash, JavaScript, Shortcodes"

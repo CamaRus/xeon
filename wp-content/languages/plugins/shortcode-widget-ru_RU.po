@@ -1,0 +1,53 @@
+# Translation of Plugins - Shortcode Widget - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Shortcode Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-26 20:16:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Shortcode Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://gagan0123.com"
+msgstr "https://gagan0123.com"
+
+#. Author of the plugin
+msgid "Gagan Deep Singh"
+msgstr "Gagan Deep Singh"
+
+#. Description of the plugin
+msgid "Adds a text-like widget that allows you to write shortcode in it. (Just whats missing in the default text widget)"
+msgstr "Добавляет виджет, подобный текстовому, который позволяет выводить в себе шорткоды. (Это как раз то, чего не достаёт стандартному текстовому виджету)"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/shortcode-widget/"
+msgstr "https://wordpress.org/plugins/shortcode-widget/"
+
+#: includes/class-shortcode-widget-plugin.php:122
+msgid "It works"
+msgstr "Он работает"
+
+#: includes/class-shortcode-widget.php:146
+msgid "Automatically add paragraphs"
+msgstr "Автоматически добавлять абзацы"
+
+#: includes/class-shortcode-widget.php:143
+msgid "Content:"
+msgstr "Содержимое:"
+
+#: includes/class-shortcode-widget.php:140
+msgid "Title:"
+msgstr "Заголовок:"
+
+#. Plugin Name of the plugin
+#: includes/class-shortcode-widget.php:37
+msgid "Shortcode Widget"
+msgstr "Shortcode Widget"
+
+#: includes/class-shortcode-widget.php:31
+msgid "Shortcode or HTML or Plain Text."
+msgstr "Шорткод, или HTML, или обычный текст."

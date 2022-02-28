@@ -1,0 +1,226 @@
+# Translation of Plugins - PHP Everywhere - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - PHP Everywhere - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-21 10:42:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - PHP Everywhere - Development (trunk)\n"
+
+#: admin/partials/php-everywhere-upgrade-display.php:182
+msgid "You can come back to this page any time by navigating to the upgrade section of this plugin's settings page"
+msgstr "Вы можете вернуться на эту страницу в любое время, перейдя в раздел обновления на странице настроек этого плагина"
+
+#: admin/partials/php-everywhere-upgrade-display.php:83
+msgid "Pages"
+msgstr "Страницы"
+
+#: admin/partials/php-everywhere-upgrade-display.php:59
+#: admin/partials/php-everywhere-upgrade-display.php:113
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/partials/php-everywhere-upgrade-display.php:58
+#: admin/partials/php-everywhere-upgrade-display.php:112
+msgid "View"
+msgstr "Просмотры"
+
+#: admin/partials/php-everywhere-upgrade-display.php:48
+#: admin/partials/php-everywhere-upgrade-display.php:76
+#: admin/partials/php-everywhere-upgrade-display.php:102
+#: admin/partials/php-everywhere-upgrade-display.php:130
+#: admin/partials/php-everywhere-upgrade-display.php:150
+#: admin/partials/php-everywhere-upgrade-display.php:175
+msgid "PHP Code"
+msgstr "PHP код"
+
+#: admin/partials/php-everywhere-upgrade-display.php:47
+#: admin/partials/php-everywhere-upgrade-display.php:75
+#: admin/partials/php-everywhere-upgrade-display.php:101
+#: admin/partials/php-everywhere-upgrade-display.php:129
+msgid "Status"
+msgstr "Статус"
+
+#: admin/partials/php-everywhere-upgrade-display.php:46
+#: admin/partials/php-everywhere-upgrade-display.php:74
+#: admin/partials/php-everywhere-upgrade-display.php:100
+#: admin/partials/php-everywhere-upgrade-display.php:128
+#: admin/partials/php-everywhere-upgrade-display.php:149
+#: admin/partials/php-everywhere-upgrade-display.php:174
+msgid "Title"
+msgstr "Заголовок (Title)"
+
+#: admin/partials/php-everywhere-upgrade-display.php:39
+#: admin/partials/php-everywhere-upgrade-display.php:93
+#: admin/partials/php-everywhere-upgrade-display.php:142
+msgid "You are all caught up 🎉 Nothing left to do"
+msgstr "Вы все догнали 🎉 Больше нечего делать"
+
+#: admin/partials/php-everywhere-upgrade-display.php:29
+msgid "Posts"
+msgstr "Posts"
+
+#: admin/partials/php-everywhere-upgrade-display.php:28
+msgid "This setup wizard will help you to upgrade from a previous version of PHP Everywhere. You will need to replace all widgets and shortcodes with Gutenberg blocks. Use the list below to help you find all affected resources. You can jump directly to the posts pages your PHP code should be at and insert the code into a new block."
+msgstr "Этот мастер установки поможет вам обновить предыдущую версию PHP Everywhere. Вам нужно будет заменить все виджеты и шорткоды блоками Gutenberg. Используйте приведенный ниже список, чтобы найти все затронутые ресурсы. Вы можете перейти непосредственно к страницам записей, на которых должен быть ваш PHP-код, и вставить код в новый блок."
+
+#: admin/partials/php-everywhere-block-more-info-display.php:24
+msgid "You must have permissions to edit posts and pages that contain the PHP Everywhere block. Ask your administrator to grant you the required permissions or edit the page containing the block on their own. You can remove the block at any time to restore the ability to edit the post or page."
+msgstr "У вас должны быть права на редактирование записей и страниц, содержащих блок PHP Everywhere. Попросите вашего администратора предоставить вам необходимые разрешения или отредактируйте страницу, содержащую блокировку, самостоятельно. Вы можете в любой момент снять блокировку, чтобы восстановить возможность редактировать запись или страницу."
+
+#: admin/partials/php-everywhere-block-more-info-display.php:23
+msgid "Why can't I save a page / post that contains the block?"
+msgstr "Почему я не могу сохранить страницу/запись, который содержит блок?"
+
+#: admin/partials/php-everywhere-block-more-info-display.php:22
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/partials/php-everywhere-admin-display.php:72
+msgid "On social media"
+msgstr "В социальных сетях"
+
+#: admin/partials/php-everywhere-admin-display.php:63
+msgid "Widgets, Posts & Pages"
+msgstr "Виджеты, записи и страницы"
+
+#: admin/partials/php-everywhere-admin-display.php:60
+msgid "Start Upgrade"
+msgstr "Начать обновление"
+
+#: admin/partials/php-everywhere-admin-display.php:57
+msgid "The following upgrade wizard will help you to track down all occurences of deprecated features and migrate them to Gutenberg blocks."
+msgstr "Следующий мастер обновления поможет вам отследить все вхождения устаревших функций и перенести их в блоки Gutenberg."
+
+#: admin/partials/php-everywhere-admin-display.php:56
+msgid "Part of software development is deprecating old functions of the software. In version 3.0.0 of this plugin the shortcode and widget functions of this plugin were deprecated (because of serious vulnerabilities in the way they operate). You need to migrate your usecases for them to the provided Gutenberg block."
+msgstr "Частью разработки программного обеспечения является отказ от старых функций программного обеспечения. В версии 3.0.0 этого плагина функции шорткода и виджета этого плагина устарели (из-за серьезных уязвимостей в их работе). Вам необходимо перенести свои варианты использования для них в предоставленный блок Gutenberg."
+
+#: admin/partials/php-everywhere-admin-display.php:55
+msgid "Upgrade from < 3.0.0"
+msgstr "Обновление с < 3.0.0"
+
+#: admin/partials/php-everywhere-admin-display.php:31
+msgid "Who is allowed to use the PHP Everywhere block?"
+msgstr "Кому разрешено использовать блок PHP Everywhere?"
+
+#: admin/class-php-everywhere-admin.php:211
+msgid "Upgrade now"
+msgstr "Обновить сейчас"
+
+#: admin/class-php-everywhere-admin.php:208
+msgid "Thank you for using PHP Everywhere! If you are upgrading from a older version of this plugin you need to run the upgrade wizard. Version 3.0.0 removed the php_everywhere shortcode and widget. Old PHP code needs to be updated to use the Gutenberg block to continue to work."
+msgstr "Благодарим вас за использование PHP Everywhere! Если вы обновляетесь с более старой версии этого плагина, вам необходимо запустить мастер обновления. В версии 3.0.0 удалены шорткод и виджет php_everywhere. Старый PHP-код должен быть обновлен для использования блока Gutenberg, чтобы продолжать работать."
+
+#: admin/class-php-everywhere-admin.php:88
+#: admin/partials/php-everywhere-upgrade-display.php:27
+msgid "PHP Everywhere Upgrade"
+msgstr "Обновить PHP Everywhere"
+
+#: admin/class-php-everywhere-admin.php:87
+msgid "PHP Everywhere Block"
+msgstr "Блок PHP Everywhere"
+
+#. Description of the plugin
+msgid "This plugin enables PHP code in pages, posts and everywhere you can place a Gutenberg block 🔥. Attention: The update to 3.0.0 is a breaking change that removes the [php_everywhere] short code and widget. Run the upgrade wizard from this plugin's settings to help you migrate to Gutenberg blocks."
+msgstr "Этот плагин включает PHP-код на страницах, в записях и везде, где вы можете разместить блок Gutenberg 🔥. Внимание: обновление до 3.0.0 является критическим изменением, которое удаляет короткий код и виджет [php_everywhere]. Запустите мастер обновления из настроек этого плагина, чтобы помочь вам перейти на блоки Gutenberg."
+
+#: admin/partials/php-everywhere-admin-display.php:79
+msgid "I maintain this plugin in my limited free time. I appreciate if you <a href=\"%s\" target=\"_blank\">buy me a coffee (Donate)</a>. :)"
+msgstr "Я поддерживаю этот плагин в свое ограниченное свободное время. Буду признателен, если вы <a href=\"%s\" target=\"_blank\">купите мне кофе (пожертвуйте)</a>. :)"
+
+#: admin/partials/php-everywhere-admin-display.php:26
+msgid "I offer custom development and WordPress customizations at affordable rates. Feel free to <a href=\"%s\">contact me</a> if you need any help."
+msgstr "Я предлагаю индивидуальную разработку и настройку WordPress по доступным ценам. Если вам нужна помощь, <a href=\"%s\">свяжитесь со мной</a>."
+
+#: admin/partials/php-everywhere-admin-display.php:25
+msgid "Need helping setting up this plugin?"
+msgstr "Нужна помощь в настройке этого плагина?"
+
+#: admin/partials/php-everywhere-admin-display.php:24
+msgid "I always appreciate to hear from people who like my work. Feel free to contact me or buy me a cup of <a href=\"%s\" target=\"_blank\">buy me a cup of coffee (Donate)</a>."
+msgstr "Мне всегда приятно получать известия от людей, которым нравится моя работа. Не стесняйтесь связаться со мной или купить мне чашку <a href=\"%s\" target=\"_blank\">купить мне чашку кофе (пожертвовать)</a>."
+
+#: admin/partials/php-everywhere-admin-display.php:23
+msgid "Support this plugin, if you enjoy using it 😄☕"
+msgstr "Поддержите этот плагин, если вам нравится им пользоваться 😄☕ "
+
+#: admin/partials/php-everywhere-admin-display.php:77
+msgid "Donate to this plugin"
+msgstr "Сделать пожертвование этому плагину"
+
+#: admin/partials/php-everywhere-admin-display.php:68
+msgid "You can have multiple PHP instances by placing multiple PHP Everywhere blocks in your editor"
+msgstr "Вы можете иметь несколько экземпляров PHP, разместив несколько блоков PHP Everywhere в своем редакторе"
+
+#: admin/class-php-everywhere-admin.php:100
+#: admin/partials/php-everywhere-admin-display.php:27
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/class-php-everywhere-admin.php:151
+#: admin/class-php-everywhere-admin.php:163
+#: admin/class-php-everywhere-admin.php:191
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно полномочий для доступа к этой странице."
+
+#. Author URI of the plugin
+msgid "http://www.alexander-fuchs.net"
+msgstr "http://www.alexander-fuchs.net"
+
+#. Author of the plugin
+msgid "Alexander Fuchs"
+msgstr "Alexander Fuchs"
+
+#. Plugin URI of the plugin
+msgid "http://www.alexander-fuchs.net/php-everywhere/"
+msgstr "http://www.alexander-fuchs.net/php-everywhere/"
+
+#. Plugin Name of the plugin
+#: admin/class-php-everywhere-admin.php:86
+#: admin/js/php-everywhere-block-admin-unauthorized.js:9
+#: admin/js/php-everywhere-block-admin.js:17
+msgid "PHP Everywhere"
+msgstr "PHP Everywhere"
+
+#: admin/partials/php-everywhere-admin-display.php:71
+msgid "Like this plugin? Support me :)"
+msgstr "Нравится этот плагин? Поддержите меня :)"
+
+#: admin/partials/php-everywhere-admin-display.php:70
+msgid "Go to <a href=\"http://www.alexander-fuchs.net/php-everywhere/\" target=\"_blank\">http://www.alexander-fuchs.net/php-everywhere/</a> to view the changelog and more."
+msgstr "Перейдите на страницу <a href=\"http://www.alexander-fuchs.net/php-everywhere/\" target=\"_blank\">http://www.alexander-fuchs.net/php-everywhere/</a>. просмотреть журнал изменений и многое другое."
+
+#: admin/partials/php-everywhere-admin-display.php:69
+msgid "Changelog"
+msgstr "История изменений"
+
+#: admin/partials/php-everywhere-admin-display.php:67
+msgid "Multiple PHP instances"
+msgstr "Несколько экземпляров PHP"
+
+#: admin/partials/php-everywhere-admin-display.php:64
+msgid ""
+"Simply activate the <pre>PHP Everywhere</pre> block & paste your PHP code including the PHP tags like this:\n"
+"<pre>&lt;?php  echo(\"Hello, World!\"); ?&gt;</pre>\n"
+"You code may contain HTML elements or have multiple lines."
+msgstr ""
+"Просто активируйте блок <pre>PHP Everywhere</pre> и вставьте свой код PHP, включая теги PHP, например:\n"
+"<pre>&lt;?php echo(\"Привет, мир!\"); ?&gt;</pre>\n"
+"Ваш код может содержать элементы HTML или состоять из нескольких строк."
+
+#: admin/partials/php-everywhere-upgrade-display.php:137
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: admin/partials/php-everywhere-admin-display.php:62
+msgid "Usage"
+msgstr "Применение"
+
+#: admin/partials/php-everywhere-admin-display.php:22
+msgid "Thanks for using PHP Everywhere. If you have any questions, feel free to ask <a href=\"%s\">me</a>.<br />I created this plugin because I have not found a Wordpress PHP plugin which is simple to use and provides a good user experience while being able to use PHP or HTML in Posts, Pages or Widgets."
+msgstr "Спасибо за использование PHP Everywhere. Если у вас есть какие-либо вопросы, не стесняйтесь спрашивать <a href=\"%s\">меня</a>.<br />Я создал этот плагин, потому что не нашел PHP-плагин WordPress, который прост в использовании и обеспечивает хороший пользовательский опыт при возможности использовать PHP или HTML в записях, страницах или виджетах."

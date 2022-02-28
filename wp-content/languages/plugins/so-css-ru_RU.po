@@ -1,0 +1,129 @@
+# Translation of Plugins - SiteOrigin CSS - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - SiteOrigin CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-03 15:12:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - SiteOrigin CSS - Stable (latest release)\n"
+
+#: tpl/page.php:141
+msgid "Close"
+msgstr "Закрыть"
+
+#: tpl/page.php:107
+msgid "Close Expanded Mode"
+msgstr "Закрыть расширенный режим"
+
+#: tpl/page.php:106
+msgid "Open Expanded Mode"
+msgstr "Открыть расширенный режим"
+
+#: tpl/page.php:110
+msgid "Open Visual Mode"
+msgstr "Открыть визуальный режим"
+
+#: so-css.php:473
+msgid "Changes apply to the %s %s when the current theme is %s or its child themes"
+msgstr "Изменения применяются к %s %s, если текущей темой является %s или ее дочерние темы"
+
+#: so-css.php:468
+msgid "Editing CSS for: %s"
+msgstr "Редактирование CSS для: %s"
+
+#: so-css.php:493
+msgid "Revert to this revision"
+msgstr "Вернуться к этой редакции"
+
+#: so-css.php:480
+msgid "Save %s CSS"
+msgstr "Сохранить %s CSS"
+
+#: tpl/page.php:33
+msgid "Editing revision dated %s. Click %sRevert to this revision%s to keep using it."
+msgstr "Редактирование редакции от %s. Нажмите %sВернуться к этой редакции%s, чтобы продолжить ее использование."
+
+#: so-css.php:635
+msgid "Latest"
+msgstr "Последний"
+
+#: tpl/page.php:49
+msgid "%sSiteOrigin Premium%s adds a <strong>Google Web Font</strong> selector to SiteOrigin CSS so you can easily change any font."
+msgstr "%sSiteOrigin Premium%s добавляет селектор <strong>Google Web Font</strong> в SiteOrigin CSS, чтобы вы могли легко изменить любой шрифт."
+
+#: tpl/page.php:47
+msgid "Get The Full Experience"
+msgstr "Получите полный опыт"
+
+#: tpl/js-templates.php:59
+msgid "Invalid URI. Please make sure you're using a URL from the same site."
+msgstr "Недопустимый URI. Убедитесь, что вы используете URL-адрес с того же сайта."
+
+#: so-css.php:635
+msgid "%d chars"
+msgstr "%d символов"
+
+#. Description of the plugin
+msgid "An advanced CSS editor from SiteOrigin."
+msgstr "Расширенный редактор CSS из SiteOrigin."
+
+#: tpl/page.php:69
+msgid "Are you sure you want to load this revision?"
+msgstr "Вы уверены, что хотите загрузить эту редакцию?"
+
+#: tpl/page.php:67
+msgid "CSS Revisions"
+msgstr "Редакции CSS"
+
+#: tpl/js-templates.php:8
+msgid "CSS Snippets"
+msgstr "CSS-фрагменты"
+
+#: tpl/page.php:58
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: tpl/page.php:57
+msgid "Getting Started Video"
+msgstr "Видео о начале работы"
+
+#. Author URI of the plugin
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#. Plugin URI of the plugin
+msgid "https://siteorigin.com/css/"
+msgstr "https://siteorigin.com/css/"
+
+#: tpl/js-templates.php:26
+msgid "Insert Snippet"
+msgstr "Вставить фрагмент"
+
+#. Author of the plugin
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Plugin Name of the plugin
+#: so-css.php:457
+msgid "SiteOrigin CSS"
+msgstr "SiteOrigin CSS"
+
+#: so-css.php:461 tpl/page.php:114 tpl/page.php:144
+msgid "Save CSS"
+msgstr "Сохранить CSS"
+
+#: tpl/inspector-templates.php:4
+msgid "Navigate To: "
+msgstr "Перейдите к: "
+
+#: tpl/js-templates.php:14
+msgid "Search Snippets"
+msgstr "Поиск фрагментов"
+
+#: tpl/page.php:28
+msgid "Site design updated."
+msgstr "Оформление сайта обновлено."
